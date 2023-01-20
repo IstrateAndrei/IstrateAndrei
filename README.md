@@ -3,7 +3,7 @@
 I'm an experienced software engineer specialized in Android mobile development. Striving and thriving in providing high-quality mobile solutions and achiving client satisfaction.  
 
 - 🔭 Currently working on multiple Android & Flutter personal projects 
-- 🌱 I’m currently learning Flutter and iOS
+- 🌱 Learning Flutter, iOS and React 
 - 👯 Open for collaboration on Android & Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrei-istrate-233299b5/) or [Email](mailto:istrateandrei33@gmail.com?subject=[Opportunity]%20Source%20Han%20Sans)
 - ⚡ Fun fact: I have a personal [Youtube](https://www.youtube.com/channel/UCJQ1tX5sObWt4x7x7WzRVbA) channel where I share my travels and adventures.
